@@ -2059,16 +2059,16 @@ span.terms-text {
     border-radius: 2px;
 }
 .sign-icon ul li a.facebook{
-    background: #25D366
+    background: #25D366;
 }
 .sign-icon ul li a.twitter{
-    background: #00ACED
+    background: #00ACED;
 }
 .sign-icon ul li a.google{
-    background: #C32F10
+    background: #C32F10;
 }
 .sign-icon ul li a.instagram{
-    background: #B5348E
+    background: #B5348E;
 }
 .sign-icon ul li a :hover{
     opacity: 0.7;
